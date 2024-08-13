@@ -3,3 +3,4 @@ this is a change
 change from my branch
 another change on branch
 feature 2 first change
+feature 3 first change
