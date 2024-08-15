@@ -1,2 +1,10 @@
 hello world
 This is a change
+this is a change
+change from my branch
+another change on branch
+feature 2 first change
+feature 3 first change
+
+create a new feature,
+is not yet finished.
