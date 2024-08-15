@@ -8,3 +8,5 @@ feature 3 first change
 
 create a new feature,
 is not yet finished.
+
+This is a change that is supposed to be in the feature-1 branch
